@@ -7,9 +7,6 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "torch",
-    "torchaudio",
-    "torchvision",
     "numpy",
     "tqdm",
     "soundfile",
